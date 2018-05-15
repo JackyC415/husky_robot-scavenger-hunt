@@ -1,0 +1,8 @@
+prefix=/home/shamano/CSE180robotics/install
+
+Name: logical_camera_plugin
+Description: Description of logical_camera_plugin
+Version: 0.0.0
+Cflags: -I/home/shamano/CSE180robotics/install/include
+Libs: -L/home/shamano/CSE180robotics/install/lib 
+Requires: gazebo_plugins gazebo_ros roscpp message_runtime

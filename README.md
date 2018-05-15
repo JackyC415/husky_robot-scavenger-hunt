@@ -1,4 +1,4 @@
-# husky_robot-scavenger-hunt
+# Husky_Robot-Scavenger-Hunt
 
 # Overview:
 

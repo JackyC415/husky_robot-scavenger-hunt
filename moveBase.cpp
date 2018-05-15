@@ -48,13 +48,7 @@ void setActionClient(int moveX, int moveY )
 	//check to see if it reaches goal
 	if (ac.getState() == actionlib::SimpleClientGoalState::SUCCEEDED) {
 			ROS_INFO_STREAM("Goal Reached!");
-/*
-			msg.linear.x = 0.0;
-  			msg.linear.y = 0.0;
-			msg.angular.z = 2.24;
-			pubTwist.publish(msg);
-			ros::Duration(6.0).sleep();
-*/
+
 	} else
 
 	{
